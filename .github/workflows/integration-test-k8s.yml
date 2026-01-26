@@ -1,6 +1,6 @@
 name: Integration Test [Kubernetes]
 
-on:
+on:https://github.com/a2425rdl/semantic-router/actions/workflows/integration-test-k8s.yml
   pull_request:
     types: [opened, synchronize, reopened, ready_for_review]
     branches:
